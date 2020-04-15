@@ -1,0 +1,11 @@
+ACO - ant colony optimisation
+
+- ants produce pheromones
+- they use pheromone to communicate between each other
+  (similar to water in our analogy)
+- ants are more LIKELY to chose a path with HIGHER pheromone -> decision made based on probability
+
+ex:
+    shortest path i a graph:
+    - cost matrix (distance)
+    - pheromone matrix

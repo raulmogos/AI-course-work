@@ -1,0 +1,17 @@
+
+
+
+
+other resources:
+
+https://www.youtube.com/user/victorlavrenko/playlists
+
+https://www.hackerearth.com/blog/developers/3-types-gradient-descent-algorithms-small-large-data-sets/
+
+https://mc.ai/linear-regression-simplified-ordinary-least-square-vs-gradient-descent/
+
+http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+
+https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf
+
+https://www.google.com/search?q=the+math+of+neural+networks+michael+taylor+pdf&oq=The+Math+of+Neural+Networks&aqs=chrome.2.0l5j69i60l2j69i61.3729j0j4&sourceid=chrome&ie=UTF-8

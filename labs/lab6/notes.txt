@@ -1,0 +1,32 @@
+ENTROPY:
+    a measure for disorder
+INFORMATION GAIN:
+    measure how much does a split on a attribute A reduces the entropy/disorder
+
+ID3:
+    - splits by the data by entropy and information gain
+    - result in multiple nodes after a split
+    -> E(S) = sum(p_i * log2(p_i)), for i belongs to SET of unique values in S
+       p_i = probability of getting value i
+    -> IG(S,H) = E(S) - Sum(P(S_v) * E(S_v))-foreach value v in H
+
+CART: Classification and regression trees
+
+
+
+other resources:
+
+http://www.ijoart.org/docs/Construction-of-Decision-Tree--Attribute-Selection-Measures.pdf
+
+https://towardsdatascience.com/machine-learning-basics-descision-tree-from-scratch-part-i-4251bfa1b45c
+
+https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8
+
+https://medium.com/coinmonks/what-is-entropy-and-why-information-gain-is-matter-4e85d46d2f01
+
+https://towardsdatascience.com/machine-learning-basics-descision-tree-from-scratch-part-ii-dee664d46831
+
+https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134
+
+https://towardsdatascience.com/decision-tree-intuition-from-concept-to-application-530744294bb6
+

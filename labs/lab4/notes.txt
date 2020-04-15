@@ -1,0 +1,6 @@
+
+@initialisation: generate N random particle in teh give space
+
+@repeate until condition is satisfied:
+    1.get best particle
+    2.update each particle velocity and position

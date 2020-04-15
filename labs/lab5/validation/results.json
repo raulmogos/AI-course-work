@@ -1,0 +1,24 @@
+{
+    "aco": [
+        {
+            "solution_size": 3,
+            "q0": 0.5,
+            "alpha": 0.9,
+            "beta": 0.9,
+            "rho": 0.05,
+            "iterations": 10,
+            "epoch_size": 40,
+            "best_fitness": 0.1
+        },
+        {
+            "solution_size": 3,
+            "q0": 0.5,
+            "alpha": 0.9,
+            "beta": 0.9,
+            "rho": 0.05,
+            "iterations": 10,
+            "epoch_size": 40,
+            "best_fitness": 0.1
+        }
+    ]
+}

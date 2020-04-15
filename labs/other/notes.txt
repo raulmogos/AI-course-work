@@ -1,0 +1,18 @@
+An EA contains four overall steps:
+    initialization
+    selection
+    genetic operators
+    termination
+
+-context -> problem
+-initialisation -> create (within the constraints of the problem) a population
+                   (a random number of possible solutions, oftentimes called members/individuals)
+-selection -> Once a population is created, members of the population must now be evaluated
+              according to a fitness function. A fitness function is a function that takes in
+              the characteristics of a member, and outputs a numerical representation of how viable
+              of a solution it is. Creating the fitness function can often be very difficult, and it is
+              important to find a good function that accurately represents the data; it is very problem-specific.
+
+
+@initialisation
+@

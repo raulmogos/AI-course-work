@@ -1,0 +1,9 @@
+{
+  "solution_size": 3,
+  "q0": 0.5,
+  "alpha": 0.9,
+  "beta": 0.9,
+  "rho": 0.05,
+  "epoch_size": 40,
+  "iterations": 10
+}

@@ -1,0 +1,2 @@
+S. Russell, P. Norvig, Artificial Intelligence: A Modern Approach, Prentice Hall, 1995
+C. Groşan, A. Abraham, Intelligent Systems: A Modern Approach, Springer, 2011 (cap. 4)

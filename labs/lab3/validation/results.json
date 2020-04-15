@@ -1,0 +1,716 @@
+{
+    "ea": [
+        {
+            "SEED": 34352,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 29630,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 30437,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 39713,
+            "best_fitness": 4,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 44080,
+            "best_fitness": 5,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 88319,
+            "best_fitness": 4,
+            "individual_size": 3,
+            "population_size": 0,
+            "probability_of_mutation": 0.4,
+            "probability_of_crossover": 0.6,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 83074,
+            "best_fitness": 4,
+            "individual_size": 3,
+            "population_size": 0,
+            "probability_of_mutation": 0.4,
+            "probability_of_crossover": 0.6,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 94679,
+            "best_fitness": 4,
+            "individual_size": 3,
+            "population_size": 0,
+            "probability_of_mutation": 0.9,
+            "probability_of_crossover": 0.6,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 27728,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 34,
+            "probability_of_mutation": 0.9,
+            "probability_of_crossover": 0.9,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 72635,
+            "best_fitness": 3,
+            "individual_size": 3,
+            "population_size": 0,
+            "probability_of_mutation": 0.9,
+            "probability_of_crossover": 0.3,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 69026,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 0.9,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 24025,
+            "best_fitness": 4,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 57434,
+            "best_fitness": 6,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 48828,
+            "best_fitness": 5,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 30145,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 52292,
+            "best_fitness": 5,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 57932,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 77408,
+            "best_fitness": 9,
+            "individual_size": 5,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 16890,
+            "best_fitness": 4,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 60879,
+            "best_fitness": 4,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 9359,
+            "best_fitness": 7,
+            "individual_size": 4,
+            "population_size": 0,
+            "probability_of_mutation": 0.7,
+            "probability_of_crossover": 0.9,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 5506,
+            "best_fitness": 8,
+            "individual_size": 4,
+            "population_size": 0,
+            "probability_of_mutation": 0.9,
+            "probability_of_crossover": 0.9,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 68346,
+            "best_fitness": 4,
+            "individual_size": 4,
+            "population_size": 0,
+            "probability_of_mutation": 0.9,
+            "probability_of_crossover": 0.99,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 7873,
+            "best_fitness": 6,
+            "individual_size": 4,
+            "population_size": 0,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 0.99,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 19015,
+            "best_fitness": 10,
+            "individual_size": 4,
+            "population_size": 0,
+            "probability_of_mutation": 0.1,
+            "probability_of_crossover": 0.1,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 58377,
+            "best_fitness": 4,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 41921,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 75880,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 82000,
+            "best_fitness": 4,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 94090,
+            "best_fitness": 5,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 5402,
+            "best_fitness": 4,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 11138,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 36926,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 31247,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 52609,
+            "best_fitness": 6,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 62873,
+            "best_fitness": 5,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 27702,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 76272,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 32678,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 40
+        },
+        {
+            "SEED": 66238,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 40
+        },
+        {
+            "SEED": 92768,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 400
+        },
+        {
+            "SEED": 956,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 400
+        },
+        {
+            "SEED": 38228,
+            "best_fitness": 6,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 400
+        },
+        {
+            "SEED": 108,
+            "best_fitness": 4,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 400
+        },
+        {
+            "SEED": 34451,
+            "best_fitness": 4,
+            "individual_size": 4,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 41197,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 40,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 1000
+        },
+        {
+            "SEED": 44537,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 110,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 111
+        },
+        {
+            "SEED": 65132,
+            "best_fitness": 6,
+            "individual_size": 4,
+            "population_size": 110,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 111
+        },
+        {
+            "SEED": 28534,
+            "best_fitness": 0,
+            "individual_size": 3,
+            "population_size": 100,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 100
+        },
+        {
+            "SEED": 34554,
+            "best_fitness": 6,
+            "individual_size": 4,
+            "population_size": 100,
+            "probability_of_mutation": 1.0,
+            "probability_of_crossover": 1.0,
+            "number_iterations": 100
+        }
+    ],
+    "hc": [
+        {
+            "SEED": 75058,
+            "best_fitness": 3,
+            "point_size": 3
+        },
+        {
+            "SEED": 67863,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 91006,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 95773,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 58274,
+            "best_fitness": 4,
+            "point_size": 4
+        },
+        {
+            "SEED": 67829,
+            "best_fitness": 5,
+            "point_size": 5
+        },
+        {
+            "SEED": 61659,
+            "best_fitness": 11,
+            "point_size": 6
+        },
+        {
+            "SEED": 47567,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 72872,
+            "best_fitness": 2,
+            "point_size": 2
+        },
+        {
+            "SEED": 84392,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 18826,
+            "best_fitness": 3,
+            "point_size": 3
+        },
+        {
+            "SEED": 7308,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 50722,
+            "best_fitness": 3,
+            "point_size": 3
+        },
+        {
+            "SEED": 43844,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 98155,
+            "best_fitness": 3,
+            "point_size": 3
+        },
+        {
+            "SEED": 4492,
+            "best_fitness": 3,
+            "point_size": 3
+        },
+        {
+            "SEED": 57325,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 3763,
+            "best_fitness": 6,
+            "point_size": 4
+        },
+        {
+            "SEED": 23401,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 24209,
+            "best_fitness": 3,
+            "point_size": 3
+        },
+        {
+            "SEED": 26982,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 70886,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 22340,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 47161,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 97922,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 80130,
+            "best_fitness": 5,
+            "point_size": 4
+        },
+        {
+            "SEED": 50948,
+            "best_fitness": 6,
+            "point_size": 4
+        },
+        {
+            "SEED": 24515,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 35260,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 49547,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 60382,
+            "best_fitness": 0,
+            "point_size": 4
+        },
+        {
+            "SEED": 35427,
+            "best_fitness": 6,
+            "point_size": 4
+        },
+        {
+            "SEED": 70683,
+            "best_fitness": 0,
+            "point_size": 4
+        },
+        {
+            "SEED": 37910,
+            "best_fitness": 5,
+            "point_size": 4
+        },
+        {
+            "SEED": 47133,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 2394,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 69794,
+            "best_fitness": 5,
+            "point_size": 4
+        },
+        {
+            "SEED": 60232,
+            "best_fitness": 5,
+            "point_size": 4
+        },
+        {
+            "SEED": 25407,
+            "best_fitness": 6,
+            "point_size": 4
+        },
+        {
+            "SEED": 6428,
+            "best_fitness": 5,
+            "point_size": 4
+        },
+        {
+            "SEED": 52880,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 91194,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 39169,
+            "best_fitness": 3,
+            "point_size": 3
+        },
+        {
+            "SEED": 65570,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 43803,
+            "best_fitness": 0,
+            "point_size": 4
+        },
+        {
+            "SEED": 50519,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 33325,
+            "best_fitness": 8,
+            "point_size": 5
+        },
+        {
+            "SEED": 93743,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 46090,
+            "best_fitness": 3,
+            "point_size": 3
+        },
+        {
+            "SEED": 17599,
+            "best_fitness": 0,
+            "point_size": 3
+        },
+        {
+            "SEED": 91607,
+            "best_fitness": 2,
+            "point_size": 4
+        },
+        {
+            "SEED": 19939,
+            "best_fitness": 6,
+            "point_size": 5
+        }
+    ]
+}
