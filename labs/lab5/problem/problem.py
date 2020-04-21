@@ -110,6 +110,8 @@ class Problem:
             pheromone = final[ke][1]  # pheromone on that move
             # pheromone^alpha * fitness^beta
             new = (pheromone ** self.__alpha) * ((1 / fitness) ** self.__beta)
+#             here some representation problems could appear
+#             if you have a large fitness value, 1/fitness^beta -> 0 (very very small values)
             final[ke].append(new)
         # add the move
         if random() < self.__q0:
