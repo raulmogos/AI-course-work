@@ -120,16 +120,19 @@ class ProblemEA:
         items = list(range(self.__population_size))
         while items:
             index_p1 = choice(items)
+#             aici poti implementa un alg de selectie (mai simplu - "tournament selection" - sau mai complex - "roulette selection or rank based selection")
             items.remove(index_p1)
             if len(items) == 0:
                 break
             index_p2 = choice(items)
             items.remove(index_p2)
+#             aici poti sa ii lasi pe cei doi parinti sa ramana in populatie; daca au fit bun, s-ar putea sa mai fie alesi si pentru urm XO si mutatii
             parent_1 = self.__population[index_p1]
             parent_2 = self.__population[index_p2]
             child_1, child_2 = self.crossover(parent_1, parent_2)
             if child_1:
                 new_population += [child_1, child_2]
+#                 si mutatia? de ce nu ai mai apelat-o?
         self.__population = new_population
         self.__population_size = len(new_population)
         self.__update_best_solution()
@@ -143,6 +146,7 @@ class ProblemEA:
         # 2 children somehow related to the parents
         if self.__probability_of_crossover < random():
             return None, None
+#         daca decizi sa nu faci XO, atunci e mai binesa clonezi parintii decat sa nu propagi nici un fel de material genetic dintr-o generatie in alta
         assert individual_1.length() == individual_2.length()
         length = individual_1.length()
         ind_1_chromosome_list = individual_1.get_chromosome_list()
