@@ -107,7 +107,7 @@ class DecisionTree:
             print(f'{row} -> prediction: {self.to_attr_name(self.__class_row_number)} -> {predict}')
             good += (predict == row[self.__class_row_number])
         self.__accuracy = (good / len(self.__data.test_matrix)) * 100
-#         compute other metrics (Confusion matrix, Precision, recall, F-measure - very important if you deal by an unbalanced dataset)
+#         compute other metrics (Confusion matrix, Precision, recall, F-measure - very important if you deal by an unbalanced dataset or if you have a more important class)
 
     def __predict(self, new_row, node):
         """
